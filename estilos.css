@@ -1,14 +1,14 @@
 .header {
     width: 100%vh;
     height: 100px;
-    background-color: rgb(81, 133, 38);
+    background-color: rgb(44, 38, 133);
     margin-bottom: 3em;
     display: flexbox;
 }
 .footer {
     width: 100%vh;
     height: 150px;
-    background-color: rgb(12, 20, 6);
+    background-color: rgb(48, 26, 5);
 }
 
 .header a {
